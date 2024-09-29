@@ -10,8 +10,8 @@ version = -1
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "Lorem ipsum"
-    authors = listOf("Cloudburst")
+    description = "Test provider ohyeah"
+    authors = listOf("Spess69")
 
     /**
     * Status int as the following:
@@ -28,7 +28,7 @@ cloudstream {
     language = "en"
 
     // random cc logo i found
-    iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"
+    iconUrl = "https://i1.sndcdn.com/avatars-000869639821-nnglrd-t240x240.jpg"
 }
 
 android {
